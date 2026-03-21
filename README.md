@@ -1,6 +1,6 @@
-# Customer Analytics — UCI Online Retail (2010–2011)
+# Customer Analytics — UCI Online Retail 
 
-End-to-end customer analysis combining Python-based segmentation with SQL-based behavioral analysis. Built on the UCI Online Retail dataset covering ~4,300 customers and 18,500 orders across December 2010 – December 2011.
+End-to-end customer analysis combining Python-based segmentation with SQL-based behavioral analysis. Built on the UCI Online Retail dataset covering ~4,300 customers and 18,500 orders.
 
 ---
 
